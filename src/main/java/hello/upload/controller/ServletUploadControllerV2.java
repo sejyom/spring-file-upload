@@ -66,7 +66,7 @@ public class ServletUploadControllerV2 {
 
         }
 
-        return "upload-form.html";
+        return "upload-form";
     }
 
 }
